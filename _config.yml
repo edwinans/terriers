@@ -12,9 +12,9 @@ sass:
 # When modifying this file, take care to preserve the indentation. This is YAML ...
 
 # Main Headline, name required, subtitle optional
-name: Terrier.fr
+name: Terriers.fr
 #subtitle:
-subtitle: Rejoignez-nous
+subtitle: Si vous travaillez pour la terre, Rejoignez-nous
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title:
