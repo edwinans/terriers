@@ -169,7 +169,7 @@ links:
   - email:
       name: Email
       show: true
-      href: mailto:contact@terrier.fr
+      href: mailto:ansa@terrier.fr
       icon: fas fa-envelope
   - publickey:
       name: PGP Key
