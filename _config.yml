@@ -169,8 +169,13 @@ links:
   - email:
       name: Email
       show: true
-      href: mailto:ansa@terrier.fr
+      href: mailto:ansa@terriers.fr
       icon: fas fa-envelope
+  - pages-jaunes:
+      name: PJ
+      show: true
+      href: https://www.pagesjaunes.fr/
+      icon: fab fa-tumblr
   - publickey:
       name: PGP Key
       show: true
